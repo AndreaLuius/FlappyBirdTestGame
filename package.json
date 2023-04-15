@@ -1,0 +1,22 @@
+{
+  "name": "flappybird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html -p 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "parcel-bundler": "^1.12.5",
+    "path": "^0.12.7",
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
